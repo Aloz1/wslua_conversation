@@ -1,3 +1,8 @@
+# Introduction
+This is a proof of concept lua c-module that exposes conversation data and packet data primitives for storing and fetching user data. Any lua data can be stored and retrieved at a later stage.
+
+Note, this has not been fully tested, and is not recommended for production code.
+
 # Building
 To build:
 ```bash
