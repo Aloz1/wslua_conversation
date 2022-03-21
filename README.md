@@ -8,7 +8,7 @@ To build:
 ```bash
 meson build
 cd build
-meson compile
+meson compile # Or `ninja` if your version of meson is old enough to not have the 'compile' command
 ```
 
 # Example usage
